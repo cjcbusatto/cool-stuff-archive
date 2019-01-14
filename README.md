@@ -30,6 +30,13 @@ Open source toolchain built around React Native to help on building native iOS a
 
 Quickly scaffold new projects with your preferred view library and toolkit. Kick it off with a perfect Lighthouse score!
 
+### Splash-cli
+
+- [Repository](https://github.com/splash-cli/splash-cli)
+- [[EN] Official site](https://splash-cli.now.sh/)
+
+Get beautiful wallpapers from [Unsplash](https://unsplash.com/)
+
 ## Applications
 
 ### MySigmail
@@ -37,6 +44,24 @@ Quickly scaffold new projects with your preferred view library and toolkit. Kick
 - [[EN] Official site](https://mysigmail.com/)
 
 MySigmail is a FREE, in browser, email signature generator without creating account
+
+### Exercism.io
+
+- [[EN] Official site](https://exercism.io)
+
+A free platform with exercises in different programming languages. It is also possible to request mentors review and, if you have experience, be a mentor and help new developers.
+
+### TomatoTimers
+
+- [[EN] Official site](http://tomatotimers.com/)
+
+Web application for [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+
+### Codingame
+
+- [[EN] Official site](https://www.codingame.com)
+
+Coding contest with 5 minutes battles against other developers and different programming challenges.
 
 ## Articles
 
