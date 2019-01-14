@@ -63,6 +63,12 @@ Web application for [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_
 
 Coding contest with 5 minutes battles against other developers and different programming challenges.
 
+### CodeSignal
+
+- [[EN] Official site](https://app.codesignal.com)
+
+Coding challenges more focused on interviews.
+
 ## Articles
 
 - [[EN] The Two Pillars of Javascript part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
