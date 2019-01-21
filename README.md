@@ -1,6 +1,7 @@
 # Archive of cool stuffs
 
 ## Projects
+
 ### Nuxt.js
 
 - [Repository](https://github.com/nuxt/nuxt.js)
@@ -36,6 +37,24 @@ Quickly scaffold new projects with your preferred view library and toolkit. Kick
 - [[EN] Official site](https://splash-cli.now.sh/)
 
 Get beautiful wallpapers from [Unsplash](https://unsplash.com/)
+
+### howmanypeoplearearound
+
+- [Repository](https://github.com/schollz/howmanypeoplearearound)
+
+Count the number of people in an area based on WiFi signals
+
+### Professional-Programming
+
+- [Repository](https://github.com/charlax/professional-programming)
+
+Collection of articles and useful content about software development career
+
+### Open Source CS
+
+- [Repository](https://github.com/ForrestKnight/open-source-cs)
+
+Collection of Computer Science open-source courses
 
 ## Applications
 
