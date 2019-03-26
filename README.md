@@ -2,6 +2,18 @@
 
 ## Projects
 
+### Learn X in Y minutes
+- [Repository](https://github.com/adambard/learnxinyminutes-docs)
+- [[EN] Official site](https://learnxinyminutes.com/)
+Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go
+
+### Profile Summary for Github
+
+- [Repository](https://github.com/tipsy/profile-summary-for-github)
+- [[EN] Official site](https://profile-summary-for-github.com/)
+
+Tool which creates a "dashboard-styled" visualization of your Github profile
+
 ### Nuxt.js
 
 - [Repository](https://github.com/nuxt/nuxt.js)
