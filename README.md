@@ -70,6 +70,11 @@ Collection of Computer Science open-source courses
 
 ## Applications
 
+### Will it CORS?
+- [[EN] Official site](https://httptoolkit.tech/will-it-cors)
+
+Online tool to analyze if CORS is required.
+
 ### MySigmail
 
 - [[EN] Official site](https://mysigmail.com/)
