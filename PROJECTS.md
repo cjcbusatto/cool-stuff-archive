@@ -12,3 +12,5 @@
 | [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) | Count the number of people in an area based on WiFi signals |
 | [Professional-Programming](https://github.com/charlax/professional-programming) | Collection of articles and useful content about software development career |
 | [Open Source CS](https://github.com/ForrestKnight/open-source-cs) | Collection of Computer Science open-source courses |
+| [knip](https://github.com/webpro/knip) | Delete code which is not referred anywhere |
+| [cv](https://github.com/BartoszJarocki/cv/tree/main) | Create a CV website |
